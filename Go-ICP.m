@@ -1,4 +1,4 @@
-@@ -0,0 +1,356 @@
+
 % Go-ICP implementation in Matlab
 
 function [] = main ()
